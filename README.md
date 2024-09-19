@@ -1,7 +1,10 @@
 <div align=center> 
+    
+<img src="https://capsule-render.vercel.app/api?type=waving&color=C7D3A6&height=150&section=header&text=teahgz%20GitHub&fontSize=42&fontColor=ffffff" />
 
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=C7D3A6&height=180&section=header&text=teahgz%20&fontSize=80&fontColor=ffffff)
+<div align=center>
+<h3>끊임없이 노력하는 전주영입니다! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Squinting%20Face.png" alt="Grinning Squinting Face" width="25" height="25" />
+</h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teahgz&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=ffffff&icon_color=ffffff&text_color=C7D3A6&title_color=C7D3A6&count_private=true&exclude_repo=Face-Transfer-Application" width=35% />
